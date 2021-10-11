@@ -5,7 +5,10 @@
 
 # Steps:
  Clone this repo in your computer by writing ``` git clone https://github.com/AayushBiswas/Hacktoberfest_2021 ``` in your terminal. 
+
  Create folders for your project and add the codes
+
  Then push the code to github
+
  After that give a pull request and if it's good we will accept it
  
